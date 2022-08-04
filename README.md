@@ -17,5 +17,5 @@
   ##
 
 <div align="center"> 
-  <a href="https://www.linkedin.com/in/gabriel-luna-3a5479206" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" title="Linkedin"></a> 
+  <a href="www.linkedin.com/in/gabriel-luna-anjos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" title="Linkedin"></a> 
 </div>
